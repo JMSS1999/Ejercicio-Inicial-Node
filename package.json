@@ -1,0 +1,23 @@
+{
+  "name": "cursofazt",
+  "version": "1.0.0",
+  "description": "Proyecto para aprender Node",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "desarrollo": "node index.js"
+  },
+  "keywords": [
+    "Node",
+    "curso",
+    "Principiantes",
+    "español"
+  ],
+  "author": "Jhandry Santorum",
+  "license": "ISC"
+}
